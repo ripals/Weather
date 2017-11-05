@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="textViewWeather">Weather</string>
+    <string name="cityName">New York City</string>
+    <string name="forecastButton">Get Forecast</string>
+    <string name="sunnyImage">sunnyImage</string>
+    <string name="umbrellaimage">umbrellaImage</string>
+    <string name="temprImage">temprImage</string>
+</resources>
